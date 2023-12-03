@@ -1,2 +1,2 @@
-# 遊戲設計女僕 Bot
-The Discord Bot for the UCR Gamespawn Discord Server
+# 游戏设计女仆 (Game Design Maid)
+The discord bot for the Gamespawn discord server
